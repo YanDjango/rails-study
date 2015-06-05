@@ -1,0 +1,2 @@
+# rails-study
+new-blog
